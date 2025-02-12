@@ -1,4 +1,4 @@
-module github.com/Azaki-san/render
+module github.com/Chi-Go/render
 
 go 1.24
 
